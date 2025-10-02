@@ -101,7 +101,7 @@ def datos_de_gastos():
     if not csv_path.exists():
         return '{"gastos": []}'
 
-    try:
+    try: 
         with csv_path.open("r", encoding="utf-8", newline="") as f:
             reader = csv.DictReader(f)
             gastos = []
