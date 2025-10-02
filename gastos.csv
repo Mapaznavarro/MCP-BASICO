@@ -1,0 +1,13 @@
+fecha,categoria,cantidad,metodo_de_pago
+2025-09-01,Comida,12.50,Efectivo
+2025-09-02,Transporte,2.75,Tarjeta débito
+2025-09-03,Entretenimiento,25.00,Tarjeta crédito
+2025-09-05,Hogar,45.20,Transferencia
+2025-09-10,Salud,30.00,Efectivo
+2025-09-12,Educación,120.00,Transferencia
+2025-09-15,Comida,8.90,Tarjeta débito
+2025-09-18,Transporte,15.00,Tarjeta crédito
+2025-09-20,Compras,60.00,Tarjeta débito
+2025-09-25,Servicios,80.50,Transferencia
+2025-09-30,Transporte,3.50,Efectivo
+2025-10-01,Comida,9.99,Tarjeta débito
